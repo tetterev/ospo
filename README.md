@@ -8,14 +8,17 @@
 Here at Allianz, we're committed to open source.<!-- Our Open Source Program Office (OSPO) is here to provide essential support, managing our GitHub organization and offering legal guidance.-->
 Our aim is to improve the open source experience, making it smoother for contributors and users.
 
-Take a look at the guides below to explore our processes, standards, and how to engage with our open source projects.
 
-## Guides
+Take a look at the [guides](https://cmp.allianz.net/spaces/ARGO/pages/2748784994/Guideline+Drafts) to explore our processes, standards, and how to engage with our open source projects.
+
+
 <!--
+## Guides
+
 #### 1. Introduction
 * Overview of Open Source
 * Benefits and Challenges
--->
+
 ### 1. Contributing Guidelines
 
 * [Code of Conduct](https://github.com/allianz/.github/blob/main/CODE_OF_CONDUCT.md)
@@ -26,10 +29,10 @@ Take a look at the guides below to explore our processes, standards, and how to 
 #### 3. Licensing
 * Overview of Open Source Licenses
 * Choosing a License for Projects
--->
+
 ### 2. Repository Lifecycle
 
-<!--* [Creating a Repository](guides/release.md)-->
+
 * [Standards and Compliance](https://github.com/allianz/ospo/wiki/Standards-and-Compliance)
 * [Archiving a Repository](https://github.com/allianz/ospo/wiki/Archiving-a-Repository)
 
@@ -44,6 +47,8 @@ Take a look at the guides below to explore our processes, standards, and how to 
 * [Dependabot](https://github.com/allianz/ospo/wiki/Dependabot)
 * [Code Scanning](https://github.com/allianz/ospo/wiki/Code-Scanning)
 * [Secret Scanning](https://github.com/allianz/ospo/wiki/Secret-Scanning)
+
+-->
 
 ## Contact
 
